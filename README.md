@@ -1,9 +1,13 @@
 # React and Golang JWT Authentication - GOLANG - Connected to MySQL database
 
- Server Side of the Full Stack JWT Authentication Application.
- ## 🛠 Client Side Repository
+Server Side of the Full Stack JWT Authentication Application.
+
+## 🛠 Client Side Repository
+
 <a href="https://github.com/vargaae/go-auth" target="_blank"> ReactJS Application on the client side</a>
+
 ## React and Golang JWT Authentication Project
+
 <div align="center">
   <img alt="Application image" src="https://go.dev/images/gophers/biplane.svg" width="400" />
 </div>
@@ -18,8 +22,10 @@ This application is connected to the MySQL database and to the client side throu
 both BE+FE applications and the DB entirely in the CLOUD:
 <img alt="Application image" src="https://coralogix.com/wp-content/uploads/2020/05/Heroku-Monitoring-Logging.png" width="400" /> -->
 <img alt="Application image" src="https://go.dev/images/icons/sphere.svg" width="80" />
+  <img alt="Application image" src="https://go.dev/images/icons/gear.svg" color="blue" width="80" />In process...
 
-## 🛠 Server side: 
+## 🛠 Server side - Used libraries, packages:
+
 - REST API with GO-fiber server
 - fiber
 - fiber - CORS
@@ -28,25 +34,26 @@ both BE+FE applications and the DB entirely in the CLOUD:
 - bcrypt
 - JWT-GO
 
-## 🛠 Authentication and Authorization 
+## 🛠 Authentication and Authorization
+
 are set with email registration-log in system on the server side throughout the Routes, bcrypt encryption and the designed database
 
 ## 🛠 ROUTES - Controllers
 
- - /register --> POST = user
- - /login --> POST
- - /user --> GET = user
- - /logout --> POST
+- /register --> POST = user
+- /login --> POST
+- /user --> GET = user
+- /logout --> POST
 
 <div>
-  <img alt="Application image" src="https://go.dev/images/icons/gear.svg" width="80" />
+  <img alt="Application image" src="https://go.dev/images/icons/gear.svg" width="80" />This 4 routes are ready, Others In process...
 </div>
  ## Front End Application Integration - Screenshots
  - Sign In
  - Registration
 
 <div>
-  <img alt="Application image" src="https://go.dev/images/icons/gear.svg" color="blue" width="80" />In process
+  <img alt="Application image" src="https://go.dev/images/icons/gear.svg" color="blue" width="80" />In process...
 </div>
 <div align="center">
   <img alt="Application image" src="https://go.dev/images/go_google_case_study_carousel.png" width="700" />
