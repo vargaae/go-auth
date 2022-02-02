@@ -6,7 +6,7 @@ import (
 	"gorm.io/gorm"
 )
 
-var DB *gorm.DB
+var DB *gorm.DB // GLOBAL VARIABLE -> use in controllers
 
 func Connect() {
 	connection, err := gorm.Open(mysql.Open("root:rootroot@/smart_brain"), &gorm.Config{})
