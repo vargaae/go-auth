@@ -5,6 +5,9 @@ Server Side of the Full Stack JWT Authentication Application.
 ## 🛠 Client Side Repository
 
 <a href="https://github.com/vargaae/go-auth" target="_blank"> ReactJS Application on the client side</a>
+<div color="blue">
+  <img alt="Application image" src="https://go.dev/images/icons/gear.svg" width="80" />In process...
+</div>
 
 ## React and Golang JWT Authentication Project
 
@@ -48,12 +51,13 @@ are set with email registration-log in system on the server side throughout the 
 <div>
   <img alt="Application image" src="https://go.dev/images/icons/gear.svg" width="80" />This 4 routes are ready, Others In process...
 </div>
- ## Front End Application Integration - Screenshots
+
+## 🛠 Front End Application Integration - Screenshots
  - Sign In
  - Registration
 
-<div>
-  <img alt="Application image" src="https://go.dev/images/icons/gear.svg" color="blue" width="80" />In process...
+<div color="blue">
+  <img alt="Application image" src="https://go.dev/images/icons/gear.svg" width="80" />In process...
 </div>
 <div align="center">
   <img alt="Application image" src="https://go.dev/images/go_google_case_study_carousel.png" width="700" />
