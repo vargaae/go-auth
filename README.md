@@ -16,7 +16,9 @@ Server Side of the Full Stack JWT Authentication Application.
 </div>
 <br>
 <p align="center">
-Authentication DEMO Project.
+Authentication DEMO Project. This Authentication PART of the whole project is based on the freeCodeCamp "React and Golang JWT Authentication - Tutorial" youtube video (https://www.youtube.com/watch?v=d4Y2DkKbxM0&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&t=577s).
+Antoniopapa's work(https://github.com/scalablescripts).
+
 This application is connected to the MySQL database and to the client side through the Routes - REST API. Server side has encrypted Authentication and Authorization services.
 </p>
 <img alt="Application image" src="https://go.dev/images/gophers/pilot-bust.svg" width="150" />
