@@ -13,6 +13,10 @@ import (
 
 const SecretKey = "secret"
 
+func Hello(c *fiber.Ctx) error {
+	return c.SendString("Hello, GO 👋!")
+}
+
 func Register(c *fiber.Ctx) error {
 	var data map[string]string
 
