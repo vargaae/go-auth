@@ -4,7 +4,7 @@ Server Side of the Full Stack JWT Authentication Application.
 
 ## 🛠 Client Side Repository
 
-<a href="https://github.com/vargaae/go-auth" target="_blank"> ReactJS Application on the client side</a>
+<a href="https://github.com/vargaae/react-auth" target="_blank"> ReactJS Application on the client side</a>
 <div color="blue">
   <img alt="Application image" src="https://go.dev/images/icons/gear.svg" width="80" />In process...
 </div>
